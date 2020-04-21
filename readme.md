@@ -18,6 +18,9 @@ git:
    example:
    git clone https://github.com/galamo/online_52_lesson_2.git (to get this repo)
 10. git pull - get the latest changes on the relevant branch
+11. git remote add origin https://github.com/galamo/test_git.git connect between the local repository to the github service repository adding a remote address for management in github
+    this command shoud executed once you want to connect the local repo to the origin repo
+12. git push -u origin master - push the code to the github service - to the relevant github repository
 
 - git push origin - upload the last changes to the github
 
