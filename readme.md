@@ -14,4 +14,11 @@ git:
 6. git checkout <commit hash> || <branch name> moving to the relevant source code version
 7. git branch - list all the project branchs
 8. git checkout -b <branch name> - create new branch
-master - the updated main version of our source code
+9. clone - download copy of the source code to your machine - git clone <URL>
+   example:
+   git clone https://github.com/galamo/online_52_lesson_2.git (to get this repo)
+10. git pull - get the latest changes on the relevant branch
+
+- git push origin - upload the last changes to the github
+
+  # master - the updated main version of our source code
