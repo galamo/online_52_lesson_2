@@ -15,3 +15,7 @@ function generateStickyNotes() {
   }
   return stickyNotes;
 }
+
+function gitTest() {
+  console.log("can you see it?");
+}
