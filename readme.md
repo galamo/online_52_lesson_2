@@ -12,4 +12,6 @@ git:
 4. git commit - take the source code snapshot and document it under a specific id
 5. git log - my commits history - all snapshots on the relevant branch
 6. git checkout <commit hash> || <branch name> moving to the relevant source code version
+7. git branch - list all the project branchs
+8. git checkout -b <branch name> - create new branch
 master - the updated main version of our source code
